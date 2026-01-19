@@ -2,7 +2,7 @@
 
 ### Syllabus
 - [Lecture 1](https://github.com/glnmario/PLIN0072-2026/tree/main/Lecture%201): Linear Models and Linear Algebra
-- Lecture 2: Feedforward Neural Networks and Representation Learning
+- [Lecture 2](https://github.com/glnmario/PLIN0072-2026/tree/main/Lecture%202): Feedforward Neural Networks and Representation Learning
 - Lecture 3: Distributional Word Representations
 - Lecture 4: Sequence Modelling and Recurrent Neural Networks
 - Lecture 5: Transformers and Attention-Based Neural Networks
